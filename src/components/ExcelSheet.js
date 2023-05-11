@@ -75,7 +75,7 @@ function ExcelSheet() {
       </table>
 
       <h1 id='loading'>Loading....</h1>
-      <h2 id='totalExpense' style={amountStyle}></h2>
+      <h2 id='totalExpense' style={amountStyle}>.</h2>
     </div>
   );
 }
