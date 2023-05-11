@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.btn-primary{
+  margin-top:10px;
+  margin-right:80px;
+  float:right;
+}
+
+.expenseForm{
+  text-decoration: none;
+  color:white;
+}
+
+.editForm{
+  text-decoration: none;
+  color:black;
+}
